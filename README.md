@@ -360,16 +360,6 @@ Users are categorized by roles.
 11. Open a Pull Request
 
 ## Task List
-- [x] Setup Version Control System
-- [x] Integrate Slack BOT notifications
-- [x] Integrate Hound CI service
-- [x] Integrate Travis CI service
-- [x] Integrate Code Coverage and Code Quality service
-- [x] ORM (Sequelize) setup
-- [x] Create specified API endpoints
-- [x] Implement Feedback from API defense
-- [ ] Set up Webpack to run mundane tasks for development of the Client side
-- [ ] create a frontend/client side interface using React with Redux architecture
 
 ## Technologies
 CP3-Document-Management-System is implemented using a number of technologies, these include:
